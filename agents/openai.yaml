@@ -1,0 +1,4 @@
+interface:
+  display_name: "文件夹皮肤生成器"
+  short_description: "按自定义场景制作文件夹皮肤，统一角色造型，变化配饰表情动作并预览打包"
+  default_prompt: "使用 $folder-skin-generator，为我生成一套六款文件夹皮肤，先确定主题与风格，再用同一母版生成整套。"
